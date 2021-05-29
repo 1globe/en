@@ -1,8 +1,8 @@
 const LocaleDictionary = {
-  Title: "1Globe Earth Explorer",
+  Title: "1Globe Earth",
   Caption: {
     Major: "1Globe",
-    Minor: "- planet Earth model"
+    Minor: "Earth"
   },
   Copyright: {
     Text: "© GK 1Globe LLC 2020-2021, GK RnD Studio Ltd.",
@@ -10,6 +10,10 @@ const LocaleDictionary = {
   },
   Messages: {
     WaitTest: "Please, wait..."
+  },
+  Units: {
+    Metre: "m",
+    Kilometre: "km"
   },
   Settings: {
     LayerDetailLink: "Details..."
