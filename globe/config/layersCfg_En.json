@@ -401,7 +401,7 @@
       "enabled": false,
       "key": "cacheCoverage",
       "name": "Cache Coverage",
-      "icon": "images/layers/logo-16.png",
+      "icon": "images/layers/1globe-16.png",
       "tooltip": "Cache coverage of layer.",
       "text": "This is a coverage of cache for each layer.",
       "provider": {
@@ -449,7 +449,7 @@
       "enabled": false,
       "key": "cgiarCoverage",
       "name": "Cgiar Coverage",
-      "icon": "images/layers/logo-16.png",
+      "icon": "images/layers/1globe-16.png",
       "tooltip": "Cgiar Srtm Elevation coverage",
       "text": "This is coverage of digital elevation data of Consultative Group for International Agricultural Research (CGIAR)  of Shuttle Radar Topography Mission (SRTM).",
       "properties": [
