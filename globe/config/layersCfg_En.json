@@ -2,7 +2,7 @@
   "imageryLayers": [
     {
       "key": "bingSat",
-      "name": "MsBing Satellite",
+      "name": "Bing Satellite",
       "icon": "images/layers/bing_logo-16.png",
       "tooltip": "Bing Maps satellite imagery",
       "text": "The Bing Maps aerial imagery web mapping service offers worldwide orthographic aerial and satellite imagery. Coverage varies by region, with the most detailed coverage in the USA and United Kingdom.  Coverage in different areas within a country also varies in detail based on the availability of imagery for that region. Bing Maps is continuously adding imagery in new areas and updating coverage in areas of existing coverage.",
@@ -242,7 +242,7 @@
     },
     {
       "key": "bingMap",
-      "name": "MsBing Maps",
+      "name": "Bing Maps",
       "icon": "images/layers/bing_logo-16.png",
       "tooltip": "Bing Maps maps imagery",
       "text": "The Bing Maps aerial imagery web mapping service offers worldwide orthographic aerial and satellite imagery. Coverage varies by region, with the most detailed coverage in the USA and United Kingdom.  Coverage in different areas within a country also varies in detail based on the availability of imagery for that region. Bing Maps is continuously adding imagery in new areas and updating coverage in areas of existing coverage.",
@@ -337,7 +337,7 @@
     },
     {
       "key": "bingSkl",
-      "name": "MsBing Roads",
+      "name": "Bing Roads",
       "icon": "images/layers/bing_logo-16.png",
       "tooltip": "Bing Maps names and roads imagery",
       "text": "The Bing Maps aerial imagery web mapping service offers worldwide orthographic aerial and satellite imagery. Coverage varies by region, with the most detailed coverage in the USA and United Kingdom.  Coverage in different areas within a country also varies in detail based on the availability of imagery for that region. Bing Maps is continuously adding imagery in new areas and updating coverage in areas of existing coverage.",
